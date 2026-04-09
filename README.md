@@ -15,7 +15,7 @@ A vibrant, interactive web application designed to deliver a personalized birthd
 * **JavaScript (ES6):** Logic for candle interaction, music toggle, and event-driven animations.
 
 ## 🚀 Live Demo
-[Insert your GitHub Pages Link Here]
+https://nithishkumar08072006.github.io/Birthday-Wish/birthday.html
 
 ---
 *Created with ❤️ for spreading joy.*
